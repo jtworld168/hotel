@@ -2,6 +2,8 @@
 
 酒店大堂无人售货超市系统 - A full-stack hotel lobby unmanned vending machine system
 
+> 📖 **中文用户请查看**: [常见问题FAQ (中文)](FAQ_CN.md) - 包含管理员账号、系统功能等详细说明
+
 ## Features
 
 ### Core E-commerce Functionality
@@ -158,17 +160,27 @@ Frontend will start on http://localhost:3000
 npm run build
 ```
 
-## Demo Accounts
+## Demo Accounts / 演示账号
 
 After running the database schema, you can use these demo accounts:
 
-| Username  | Password | Role     | Description                    |
-|-----------|----------|----------|--------------------------------|
-| admin     | 123456   | admin    | Administrator account          |
-| employee1 | 123456   | employee | Employee with 20% discount     |
-| customer1 | 123456   | customer | Regular customer account       |
+运行数据库脚本后，可以使用以下演示账号：
 
-Note: Passwords are hashed with BCrypt. The plain text password for all demo accounts is `123456`.
+| Username / 用户名 | Password / 密码 | Role / 角色 | Description / 描述                    |
+|-------------------|-----------------|-------------|---------------------------------------|
+| admin             | 123456          | admin       | Administrator account / 管理员账号    |
+| employee1         | 123456          | employee    | Employee with 20% discount / 员工账号（20%折扣） |
+| customer1         | 123456          | customer    | Regular customer account / 普通客户账号 |
+
+**Note / 注意**: Passwords are hashed with BCrypt. The plain text password for all demo accounts is `123456`.
+
+**注意**：密码使用 BCrypt 加密存储。所有演示账号的明文密码都是 `123456`。
+
+### 管理员登录信息 / Administrator Login Information
+
+- **用户名 / Username**: `admin`
+- **密码 / Password**: `123456`
+- **角色 / Role**: Administrator / 管理员
 
 ## API Endpoints
 
