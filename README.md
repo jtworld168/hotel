@@ -2,6 +2,8 @@
 
 酒店大堂无人售货超市系统 - A full-stack hotel lobby unmanned vending machine system
 
+> 🔑 **管理员登录**: [点击查看登录信息](LOGIN_CREDENTIALS.md) | **Admin Login**: [Click for credentials](LOGIN_CREDENTIALS.md)
+> 
 > 📖 **中文用户请查看**: [常见问题FAQ (中文)](FAQ_CN.md) - 包含管理员账号、系统功能等详细说明
 
 ## Features
