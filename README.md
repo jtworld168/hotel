@@ -5,8 +5,16 @@
 > 🔑 **管理员登录**: [点击查看登录信息](LOGIN_CREDENTIALS.md) | **Admin Login**: [Click for credentials](LOGIN_CREDENTIALS.md)
 > 
 > 📖 **中文用户请查看**: [常见问题FAQ (中文)](FAQ_CN.md) - 包含管理员账号、系统功能等详细说明
+> 
+> 🆕 **新功能**: [语言切换和扫码功能](NEW_FEATURES.md) | **New Features**: [Language Toggle & QR Scanner](NEW_FEATURES.md)
 
 ## Features
+
+### New Features ⭐
+- ✅ **Language Toggle** (中/EN) - Switch between English and Chinese interface with one click
+- ✅ **QR Code Scanner** - Scan QR codes to quickly navigate to products or open links
+- Camera-based real-time scanning
+- Automatic product ID detection
 
 ### Core E-commerce Functionality
 - ✅ User registration and login
